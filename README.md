@@ -35,7 +35,7 @@ Bu Minishell uygulaması aşağıdaki temel işlevleri desteklemektedir:
 
 1.  Projeyi klonlayın:
     ```bash
-    git clone [Projenizin GitHub Linki]
+    git clone https://github.com/Muhammed4101/Minishell.git
     cd minishell
     ```
 
